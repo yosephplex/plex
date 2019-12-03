@@ -1,7 +1,4 @@
-#EXTINF:0 type="playlist" tvg-logo="http://nerdtv.xyz/img/CINE.png",SERIES
-#EXTSIZE: BIG
-#EXTBG: https://media1.tenor.com/images/72259744675c63545736b918b5930389/tenor.gif?itemid=4827444
-http://nerdtv.xyz/cuenta/ssiptvSerie.php?user=Jjorgeurqui1d1&password=071119fx&format=.m3u
+
 
 #EXTINF:0 type="playlist" tvg-logo="http://nerdtv.xyz/img/USA.png",ESTADOS UNIDOS
 #EXTSIZE: big
@@ -25,8 +22,15 @@ http://nerdtv.xyz/cuenta/ssiptvList.php?user=Jjorgeurqui1d1&password=071119fx&ty
 
 #EXTINF:0 type="playlist" tvg-logo="http://nerdtv.xyz/img/NOTICIAS.png",NOTICIAS
 #EXTSIZE: BIG
-#EXTBG:
+#EXTBG: https://media1.tenor.com/images/2961d9cd5167d329f41bf7c4cb33bc34/tenor.gif?itemid=9131991
 http://nerdtv.xyz/cuenta/ssiptvList.php?user=Jjorgeurqui1d1&password=071119fx&type=tv&category=NOTICIAS&format=.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="http://nerdtv.xyz/img/CINE.png",SERIES
+#EXTSIZE: BIG
+#EXTBG: http://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/05/11/14944808914812.gif
+http://nerdtv.xyz/cuenta/ssiptvSerie.php?user=Jjorgeurqui1d1&password=071119fx&format=.m3u
+
+
 
 #EXTINF:0 type="playlist" tvg-logo="http://nerdtv.xyz/img/CULTURA.png",CULTURA
 #EXTSIZE: BIG
