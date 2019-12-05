@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="Fullmetal Alchemist S01E01" description="Temporada 01 Episodio 01" type="video" tvg-logo="http://i.imgur.com/yVwM5yn.jpg",Fullmetal Alchemist S01E01
-#EXTSIZE: Medium
+#EXTSIZE: big
+#EXTBG: https://pa1.narvii.com/6427/d3b631b0a2b2902aeb80d5abf6e9afd140ab4455_hq.gif
 http://principal.nerdtv.xyz/2019/serie.php?user=Jjorgeurqui1d1&password=071119fx&id=nt6byi0p5x
 #EXTINF:-1 tvg-ID="" tvg-name="Fullmetal Alchemist S01E02" description="Temporada 01 Episodio 02" type="video" tvg-logo="http://i.imgur.com/yVwM5yn.jpg",Fullmetal Alchemist S01E02
 #EXTSIZE: Medium
