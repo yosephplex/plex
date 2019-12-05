@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="Caballeros Del Zodiaco S01E01" description="Temporada 01 Episodio 01" type="video" tvg-logo="http://i.imgur.com/hPtizLY.jpg",Caballeros Del Zodiaco S01E01
-#EXTSIZE: Medium
+#EXTSIZE: big
+#EXTBG: https://thumbs.gfycat.com/AcidicInsistentBaldeagle-max-1mb.gif
 http://principal.nerdtv.xyz/2019/serie.php?user=Jjorgeurqui1d1&password=071119fx&id=54wym0x3on
 #EXTINF:-1 tvg-ID="" tvg-name="Caballeros Del Zodiaco S01E02" description="Temporada 01 Episodio 02" type="video" tvg-logo="http://i.imgur.com/hPtizLY.jpg",Caballeros Del Zodiaco S01E02
 #EXTSIZE: Medium
