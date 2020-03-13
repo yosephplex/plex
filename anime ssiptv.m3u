@@ -1,17 +1,18 @@
 
 
-#EXTINF:-1,PELICULAS
+
+
+
+
+#EXTINF:-1,PINKY Y CEREBRO
 #EXTSIZE: big
-#EXTBG: https://historiademardelplata.files.wordpress.com/2012/11/cineforo.gif
-https://dl.dropboxusercontent.com/s/ong3xuu0g7kuxnz/Peliculas.m3u?dl=0
-
-
-
+#EXTBG: https://gifimage.net/wp-content/uploads/2018/04/pinky-y-cerebro-gif-2.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/pinkyycerebro.m3u
 
 #EXTINF:-1,SAILOR MOON
 #EXTSIZE: big
 #EXTBG: https://media2.giphy.com/media/gTTI9wUmVj6Uw/giphy.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/SAILORMOONOTTPLAYER.M3U
+https://raw.githubusercontent.com/yosephplex/plex/master/Sailor%20Moon.m3u
 
 #EXTINF:-1,FULL METAL ALCHEMIST "LA ESTRELLA SAGRADA DE MILOS"
 #EXTSIZE: big
@@ -27,19 +28,16 @@ http://archive.org/download/l4p1n324/L4%20P1N324.mp4
 #EXTINF:-1,ROBOTECH
 #EXTSIZE: big
 #EXTBG: http://www.macrossworld.com/mwf/uploads/profile/photo-15195.gif?_r=0
-https://raw.githubusercontent.com/yosephplex/plex/master/robotech.m3u
+https://raw.githubusercontent.com/yosephplex/plex/master/ROBOTECH.M3U
 
 
 
-#EXTINF:0,LA CASA DE LOS DIBUJOS
-#EXTSIZE: MEDIUM
-#EXTBG: https://thumbs.gfycat.com/AggressiveColorfulKudu-max-1mb.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/lacasadelosdibujos.m3u
-
-#EXTINF:-1,DISNEY CLASSICS
+#EXTINF:0,RICKY Y MORTY
 #EXTSIZE: big
-#EXTBG: https://media.giphy.com/media/lYJu9YPwOephe/giphy.gif
-https://dl.dropboxusercontent.com/s/czspb9068thpr6l/INFANTIL.M3U
+#EXTBG: https://media.tenor.com/images/1b2c509c673b603557eedf392c9f3d96/tenor.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/RICKYYMORTY.M3U
+
+
 
 
 #EXTINF:-1,Dragon Ball Z
@@ -59,67 +57,70 @@ https://raw.githubusercontent.com/yosephplex/plex/master/SAINTSEIYA.m3u
 #EXTBG: https://66.media.tumblr.com/d8e985593385749ae3679b0a190d76d9/tumblr_om5hkbgqqV1v7xx0uo1_400.gifv
 http://archive.org/download/icon1_20190813/3.mp4
 
+#EXTINF:-1,DISNEY CLASSICS
+#EXTSIZE: medium
+#EXTBG: https://media.giphy.com/media/lYJu9YPwOephe/giphy.gif
+https://dl.dropboxusercontent.com/s/czspb9068thpr6l/INFANTIL.M3U
 
-
-#EXTINF:0,BROLY HD
+#EXTINF:0,DIGIMON
 #EXTSIZE: MEDIUM
-#EXTBG: https://thumbs.gfycat.com/AcclaimedPerkyHerculesbeetle-max-1mb.gif
-https://dl.dropboxusercontent.com/s/ak5sl3syezk8oyu/BROLY.BR.LAT.mkv?dl=0
+#EXTBG: https://i.pinimg.com/originals/7c/34/e0/7c34e08100b73996ce6ac74f01ea8a07.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/digimon.m3u
 
 
 
 
 
-#EXTINF:-1,Dragon ball
+#EXTINF:-1,SUPERCAMPEONES
 #EXTSIZE: MEDIUM
-#EXTBG: https://i.gifer.com/fetch/w300-preview/ca/cab71bd463b3a893a9fba24476acb2ed.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Sailor%20Moon.m3u
+#EXTBG: https://media.tenor.com/images/9298e2aee50b2d20407480e27130340a/tenor.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/SUPERCAMPEONES.M3U
 
 
-#EXTINF:-1,BOB ESPONJA
-#EXTSIZE: MEDIUM
-#EXTBG: https://media.tenor.com/images/8c70e022e363876e9fd21a1bcd9ae5be/tenor.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/bobesponja.m3u
+#EXTINF:-1,DRAGON BALL HEROES
+#EXTSIZE: BIG
+#EXTBG: https://thumbs.gfycat.com/AchingCooperativeChanticleer-max-1mb.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/dragonballheroes.m3u
 
 #EXTINF:-1,MAGUILA EL GORILA
 #EXTSIZE: MEDIUM
 #EXTBG: https://media1.giphy.com/media/3kwbZNWyavY0a5TctQ/giphy.gif
 https://dl.dropboxusercontent.com/s/kqcur1ksnnpxel6/Maguilla%20el%20gorila.m3u
 
-#EXTINF:-1,YOS MOVIES
+#EXTINF:-1,SLAM DUNK
 #EXTSIZE: big
-#EXTBG: http://25.media.tumblr.com/061b69eec3c9595a07087588a5ba147f/tumblr_mxy6ulsSud1rye7joo2_250.gif
-https://dl.dropboxusercontent.com/s/09d23jljv4ryroe/estrenos%20nestor.m3u
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4vzrPKRFl_Ikmgc_w2ZvhQCvkAMmIwvh3SOJhww8T-4A_Z3nd
+https://raw.githubusercontent.com/yosephplex/plex/master/Slam%20Dunk.m3u
 
 #EXTINF:-1,RICOCHET RABBIT
 #EXTSIZE: MEDIUM
 #EXTBG: https://vignette.wikia.nocookie.net/blazin-trails/images/6/67/Ric%27s_Takeoff.gif/revision/latest/scale-to-width-down/224?cb=20180607164758
 https://dl.dropboxusercontent.com/s/4l9ry7x8h1kug7a/RICOCHET%20RABIT.m3u
 
-#EXTINF:-1,EL CORRECAMINOS
-#EXTSIZE: MEDIUM
-#EXTBG: http://1.bp.blogspot.com/-hR0AZIY8dnE/VngdB2XLBrI/AAAAAAAA5bE/poNOX63XtIA/s1600/coyote-11.gif
-https://dl.dropboxusercontent.com/s/xht5ni0y1ha36n6/el%20correcaminos.m3u
 
-#EXTINF:-1,LA LEYENDA DE LA NAGUALA
-#EXTSIZE: big
-#EXTBG: https://i.makeagif.com/media/1-10-2016/Lq0lUG.gif
-http://ia800809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
 
-#EXTINF:-1,Dragon ball GT
-#EXTSIZE: big
-#EXTBG: http://pa1.narvii.com/6343/63b8f182712aa5d9d779032466ddc3ce3616494d_00.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Fullmetal%20Alchemist.m3u
 
-#EXTINF:-1,ataque de los tirtanes
-#EXTSIZE: big
-#EXTBG: http://pa1.narvii.com/6140/0ade1f70b77254284bd9e4c513ede60b56ab238a_00.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Slam%20Dunk.m3u
+https://raw.githubusercontent.com/yosephplex/plex/master/supermagnetron.m3u
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hPtizLY.jpg",SEINT SEIYA
+#EXTINF:-1,EL VENGADOR
 #EXTSIZE: big
-#EXTBG: https://thumbs.gfycat.com/AcidicInsistentBaldeagle-max-1mb.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/saint%20seiya.m3u
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1re4tMQdzU3ppoekBcVsjQRuyavwY_xswsIxRxQWc54m27a3u
+https://raw.githubusercontent.com/yosephplex/plex/master/el%20vengador.m3u
+
+#EXTINF:-1,EL GALACTICO
+#EXTSIZE: big
+#EXTBG: https://i.pinimg.com/236x/7f/ba/c1/7fbac19f533251d33d24258721a66fc7.jpg
+https://raw.githubusercontent.com/yosephplex/plex/master/elgalactico.m3u
+
+#EXTINF:-1,EL GLADIADOR
+#EXTSIZE: big
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdQA2RjDLFv0dt6myaSoTrTyK_fk5e9St1EGtEeTQpGl_CCyS5
+https://raw.githubusercontent.com/yosephplex/plex/master/elgladiador.m3u
+
+#EXTINF:-1 GARFIELD
+#EXTSIZE: big
+#EXTBG: https://www.gifsanimados.org/data/media/1214/garfield-imagen-animada-0059.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/garfield.m3u
 
 #EXTINF:-1,KIMAGURE ORANGE ROAD
 #EXTSIZE: big
@@ -146,15 +147,15 @@ https://dl.dropboxusercontent.com/s/2413u1cblz5d1cg/Garfield.m3u
 #EXTBG: https://media1.tenor.com/images/69ca232e76614730e5133d09e18a5860/tenor.gif?itemid=14220298
 https://dl.dropboxusercontent.com/s/ojoh40fugt3fxl5/No.game.no.life.zero.mp4?dl=0
 
-#EXTINF:0,My Hero Academia Two Heroes
+#EXTINF:0,SUPERMAGNETRON
 #EXTSIZE: BIG
-#EXTBG: https://thumbs.gfycat.com/BraveDefinitiveAustraliankestrel-max-1mb.gif
-https://dl.dropboxusercontent.com/s/siiytjlg6b9eqe9/My.hero.academia.two.heroes..mp4?dl=0
+#EXTBG: https://www.robotvintage.com/uploads/SERIE_C/gakeen_file/principale2.jpg
+https://raw.githubusercontent.com/yosephplex/plex/master/supermagnetron.m3u
 
-#EXTINF:-1,THE MANDALORIAN
-#EXTSIZE: big
-#EXTBG: https://thumbs.gfycat.com/BoldArcticAmbushbug-max-1mb.gif
-https://dl.dropboxusercontent.com/s/f8nish6hf1665y2/The%20Mandalorian.m3u?dl=0
+#EXTINF:-1,EL CORRECAMINOS
+#EXTSIZE: MEDIUM
+#EXTBG: http://1.bp.blogspot.com/-hR0AZIY8dnE/VngdB2XLBrI/AAAAAAAA5bE/poNOX63XtIA/s1600/coyote-11.gif
+https://dl.dropboxusercontent.com/s/xht5ni0y1ha36n6/el%20correcaminos.m3u
 
 #EXTINF:-1,LOS AUTOS LOCOS
 #EXTSIZE: big
@@ -185,10 +186,7 @@ https://dl.dropboxusercontent.com/s/33xewvhb8a31azl/Mazinger.Z.Infinity.mp4?dl=0
 #EXTBG: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ffe94ad5-38f3-4f09-a505-4dd2bd1c7f3e/d6541fl-f760c80b-9600-46fe-9cd6-bfb8b41e952c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmZTk0YWQ1LTM4ZjMtNGYwOS1hNTA1LTRkZDJiZDFjN2YzZVwvZDY1NDFmbC1mNzYwYzgwYi05NjAwLTQ2ZmUtOWNkNi1iZmI4YjQxZTk1MmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x6pnLjxKoPQLkMZg52G9sldxQDY05PZeNL5012u1gmM
 https://dl.dropboxusercontent.com/s/143o2hg57hkzo1k/NARUTO%20252-259.m3u
 
-#EXTINF:-1,ERASE UNA VEZ EL HOMBRE
-#EXTSIZE: big
-#EXTBG: http://4.bp.blogspot.com/_aKv1Z_mqBUI/TT8dQSWjmkI/AAAAAAAAAWQ/OzhWxhZr0dM/s1600/erase_una_vez_el_hombre.gif
-https://dl.dropboxusercontent.com/s/oxgruuqexf7sm6h/Erase%20una%20vex%20el%20hombre%20y%20america.m3u
+
 
 #EXTINF:-1,CHICHO TERREMOTO
 #EXTSIZE: MEDIUM
@@ -209,10 +207,7 @@ https://www.dropbox.com/s/u9x44ib6v6ijovc/Los%20trotam%C3%BAsicos.m3u?dl=0
 
 
 
-#EXTINF:-1,MARVEL MOVIES
-#EXTSIZE: big
-#EXTBG: https://static.diariouno.com.ar/adjuntos/212/imagenes/023/309/0023309870.gif
-https://www.dropbox.com/s/2m8r1hurhmxz0ct/Peliculas%20Marvel.m3u
+
 
 #EXTINF:-1,THUNDERBIRDS
 #EXTSIZE: big
